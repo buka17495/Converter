@@ -1,0 +1,14 @@
+
+Converter/bin/Debug/net7.0-windows/
+Converter/bin/Release/net7.0-windows/
+Converter/obj/
+ConverterTests/bin/Debug/net7.0/
+ConverterTests/bin/Release/net7.0/
+ConverterTests/obj/
+GrpcClient/bin/Debug/net7.0/
+GrpcClient/bin/Release/net7.0/
+GrpcClient/obj/
+GrpcService/bin/Debug/
+GrpcService/bin/Release/
+GrpcService/obj/
+.vs/
